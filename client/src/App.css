@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+}
+.header {
+    background-color: 'blue';
+    height: 150px;
+    padding: 20px;
+    color: white;
+}
+
+.title {
+    font-size: 1.5em;
+    background-color: rgb(34, 34, 34);
+
+}
+
+.intro {
+    font-size: large;
+}
